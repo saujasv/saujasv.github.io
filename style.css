@@ -1,0 +1,295 @@
+/*
+	Set default margins and padding to 0 to access entire browser window.
+ */
+html, body
+{
+	margin:0;
+	padding:0;
+}
+
+/*
+	Flex elements to distribute contents of navigation bar evenly
+ */
+.head nav
+{
+	top: 0;
+	display: flex;
+	flex-direction: row;
+	flex-grow: 1;
+	flex-wrap: nowrap;
+	width: 100vw;
+	font-family: "Noto Sans";
+	font-weight: bold;
+	color: black;
+	justify-content: center;
+}
+
+/*
+	Set properties of each link on navigation bar
+ */
+.head nav a
+{
+	flex: auto;
+	padding: 2vh;
+	font-size: 2vh;
+	text-align: center;
+	text-decoration: none;
+	color: black;
+}
+
+/*
+	Change colour of navigation bar button when mouse hovers over it.
+ */
+.head nav a:hover
+{
+	background-color: gray;
+}
+
+.content nav a:hover
+{
+	background-color: gray;
+}
+
+/*
+	Change colour of navigation bar button when it is active.
+ */
+.head nav a:active
+{
+	background-color: silver;
+}
+
+/*
+	Set properties of h1 to display name at the top of every page.
+ */
+.head h1
+{
+	text-align:center;
+	padding:10px;
+	font-family: "Noto Sans";
+	font-size:4vh;
+}
+
+/*
+	Set properties of the fixed header for every page.
+ */
+.head
+{
+	margin:0;
+	padding:0;
+	height:20vh;
+	width:100vw;
+	position:fixed;
+	background-color:white;
+}
+/*
+	Set properties for displaying content on the screen. Pad it at the top so the header doesn't block it.
+ */
+.content
+{
+	padding-top:20vh;
+	font-family:"Noto Sans";
+	padding-left: 5vw;
+	padding-right: 5vw;
+	padding-bottom: 10vh;
+}
+
+/*
+	Image properties of profile picture to be displayed on home page.
+ */
+#bigprofilepic
+{
+	display: block;
+	margin-left:auto;
+	margin-right:auto;
+	border-radius: 50%;
+	width:30vh;
+	height:30vh;
+}
+
+/*
+	Specify how buttons that link to social media/online accounts are to be displayed on the screen
+ */
+#socialbuttonsarray
+{
+	display:flex;
+	text-align: center;
+	margin: auto;
+	flex-flow: row nowrap;
+	justify-content: space-between;
+}
+
+#socialbuttonsarray div
+{
+	flex:auto;
+	padding:10px 10px;
+}
+
+/*
+	Specify properties of the icons that are links
+ */
+#socialbuttonsarray div img
+{
+	border-radius:50%;
+	width:7vh;
+}
+
+.content h2
+{
+	font-family: "Noto Sans";
+	font-size: 3vh;
+}
+
+.content p, ul
+{
+	font-size: 2vh;
+}
+/*
+	In CV, degree obtained at educational institute displayed in different font to distinguish from other information.
+ */
+.degree
+{
+	font-family: "Noto Sans";
+	list-style-type: none;
+}
+
+/*
+	Footer element that is fixed at the bottom of every page except the last.
+ */
+.foot
+{
+	background-color: silver;
+	font-family: "Noto Sans";
+	font-style: italic;
+	padding: 2vh 2vh;
+	position:fixed;
+	/*margin-top: 15px;*/
+	text-align: center;
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 3vh;
+	font-size: 2vh;
+}
+
+/*
+	Properties to display text explaining each equation.
+ */
+.equation
+{
+	font-family: "Noto Sans";
+	text-align: center;
+}
+
+/*
+	Set heading for equation.
+ */
+.equation h2
+{
+	font-family: "Noto Sans";
+	font-weight: bold;
+}
+
+/*
+	Align bullets, but pad them to offset from left of screen
+ */
+.centered-bullets
+{
+	text-align:left;
+	padding: 0 30vw;
+}
+
+/*
+	Englarge main equation to distinguish from math elements that are in the explanation.
+ */
+.main-eqn
+{
+	font-size: 4vh;
+}
+
+/*
+	Properties of button on Random page
+ */
+.btn
+{
+	background-color: gray;
+    border: none;
+    color: black;
+    padding: 2vh 2vh;
+	margin-top: 1vh;
+	margin-bottom: 1vh;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	font-family: "Noto Sans";
+	font-weight: bold;
+	font-size: 2vh;
+}
+
+/*
+	Distribute buttons evenly on page
+ */
+#buttons
+{
+	display:flex;
+	flex-flow: row wrap;
+	margin-left:20vw;
+	margin-right:20vw;
+	flex-flow: row nowrap;
+	justify-content: space-around;
+	padding-bottom: 0vh;
+	padding-top: 0;
+}
+
+/*
+	Change appearance of button when hovered over
+ */
+.btn:hover
+{
+	background-color: black;
+	color:white;
+}
+
+/*
+	Section headings for sections on Reading page.
+ */
+#read.h2
+{
+	font-size:2vh;
+}
+
+#to-read.h2
+{
+	font-size:2vh;
+}
+
+/*
+	Properties for each book entry
+ */
+.book
+{
+	font-size: 2vh;
+}
+
+/*
+	Properties to display book information in a way that title and author can be distinguished
+ */
+.book-name
+{
+	font-style: italic;
+}
+
+.book a
+{
+	color: inherit;
+	text-decoration: none;
+}
+
+.book a:hover
+{
+	background-color: gray;
+}
+
+.author
+{
+	font-family: "Noto Sans";
+}
