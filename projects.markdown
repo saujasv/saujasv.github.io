@@ -14,5 +14,5 @@ infer linguistic rules that generalise from only a few given examples. We use pr
 to tackle this problem. We develop a domain-specific language for expressing linguistic rules,
 and adapt a synthesis algorithm to synthesise rules for solving a set of phonology problems we curated.
 
-[\[paper\]]() [\[arXiv\]]() [\[dataset\]](https://github.com/saujasv/phonological-generalizations)
+[\[paper\]]() [\[arXiv\]](https://arxiv.org/abs/2106.06566) [\[dataset\]](https://github.com/saujasv/phonological-generalizations)
 
