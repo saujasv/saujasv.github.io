@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Saujas Vaduguru
+title: Saujas' homepage
 email: saujas1999 [MASK] gmail [MASK] com
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Computational linguistics dual degree student at IIIT Hyderabad.
@@ -28,9 +28,29 @@ twitter_username: saujasv
 github_username:  saujasv
 
 # Build settings
-theme: minima
-# plugins:
-#   - jekyll-feed
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache
+
+author:
+  name             : "Saujas Vaduguru"
+  avatar           : "/assets/images/profilepicture.jpg"
+  bio              : "Masters student at IIIT, Hyderabad"
+  location         : "Bangalore, IN"
+  github           : "saujasv"
+  links:
+    - label: "saujas1999[AT]gmail[DOT]com"
+      icon: "fas fa-fw fa-envelope-square"
+      url: ""
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/saujasv"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square"
+      url: "https://scholar.google.com/citations?user=U2MUXuMAAAAJ&hl=en"
+    - label: "Semantic Scholar"
+      icon: "ai ai-semantic-scholar-square"
+      url: "https://www.semanticscholar.org/author/Saujas-Vaduguru/2111868853"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
