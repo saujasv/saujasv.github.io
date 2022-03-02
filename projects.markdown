@@ -23,4 +23,4 @@ and adapt a synthesis algorithm to synthesise rules for solving a set of phonolo
 
 When working with program synthesizers, humans pragmatically communicate their intent in their specification. However, synthesizers are designed to work on any specification, and don't leverage the fact that humans make the task easier. But, pragmatic inference as captured in theories of rational communication (RSA) is computationally expensive, and scales poorly to large program spaces. We break down the synthesis problem using approximating in such a way that it works well with pragmatic specification, and also allows for pragmatic inference at a much lower cost.
 
-[\[paper\]](/assets/papers/mic-neurips-2021.pdf) [\[code\]](https://github.com/saujasv/program_synthesis_pragmatics)
+[\[paper\]](/assets/papers/mic-neurips-2021.pdf) [\[code\]](https://github.com/saujasv/program_synthesis_pragmatics) [\[talk\]](https://slideslive.com/38970772/efficient-pragmatic-program-synthesis-with-informative-specifications)
