@@ -28,6 +28,8 @@ github_username:  saujasv
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
+plugins:
+  - jekyll-include-cache
 
 author:
   name             : "Saujas Vaduguru"
