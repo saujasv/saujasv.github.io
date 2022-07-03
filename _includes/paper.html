@@ -17,14 +17,7 @@
 [{{include.index}}]
 {% endcapture %}
 
-{% if include.numbering %}
-{% include cv_item.html
-    margin=paper_index
-    main=paper_details
-%}
-{% else %}
 {% include cv_item.html
     margin=''
     main=paper_details
 %}
-{% endif %}

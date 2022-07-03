@@ -73,8 +73,8 @@ permalink: /cv/
 
 <h2>Academic Service</h2>
 {% include cv_item.html
-    margin='<span class="small-caps">Reviewer</span>'
-    main='ICON 2021, NILLI@EMNLP 2021'
+    margin=''
+    main='<span class="small-caps">Reviewer: </span>ICON 2021, NILLI@EMNLP 2021'
 %}
 
 <h2>Teaching</h2>
