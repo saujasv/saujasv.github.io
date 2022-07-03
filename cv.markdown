@@ -6,7 +6,7 @@ permalink: /cv/
 
 <a href="/assets/Saujas-Vaduguru-CV.pdf"><i class="fa-solid fa-file-pdf"></i> View PDF</a><br>
 <a href="https://saujasv.github.io/"><i class="fa-solid fa-globe"></i> saujasv.github.io</a><br>
-<a href=""><i class="fa-solid fa-envelope"></i> svadugur [AT] andrew [DOT] cmu [DOT] edu</a><br>
+<a href=""><i class="fa-solid fa-envelope"></i> svadugur [AT] cs [DOT] cmu [DOT] edu</a><br>
 <a href="https://github.com/saujasv"><i class="fa-brands fa-github"></i> saujasv</a>
 
 
