@@ -6,7 +6,6 @@
     {% for paper in publications %}
     <li>
     {% include paper.html
-        index=forloop.rindex
         title=paper.title
         authors=paper.authors
         venue=paper.venue
@@ -16,12 +15,10 @@
     %}
     </li>
     {% endfor %}
-    </ol>
+</ol>
 {% else %}
     {% for paper in publications %}
     {% include paper.html
-        numbering=include.numbering
-        index=forloop.rindex
         title=paper.title
         authors=paper.authors
         venue=paper.venue

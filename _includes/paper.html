@@ -13,11 +13,4 @@
 </p>
 {% endcapture %}
 
-{% capture paper_index %}
-[{{include.index}}]
-{% endcapture %}
-
-{% include cv_item.html
-    margin=''
-    main=paper_details
-%}
+{{paper_details}}
