@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: Projects
-    url: /projects
-  - title: "CV"
-    url: /assets/resume.pdf
+  - title: CV
+    url: /cv
+  # - title: "CV"
+  #   url: /assets/resume.pdf

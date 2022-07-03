@@ -19,7 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Saujas' homepage
-email: saujas1999 [MASK] gmail [MASK] com
+email: svadugur [A] andrew [D] cmu [D] edu
 # description: >- # this means to ignore newlines until "baseurl:"
 #   Computational linguistics dual degree student at IIIT Hyderabad.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -35,20 +35,20 @@ plugins:
 author:
   name             : "Saujas Vaduguru"
   avatar           : "/assets/images/profilepicture.jpg"
-  bio              : "Masters student at IIIT, Hyderabad"
+  bio              : "Incoming PhD student at CMU LTI"
   location         : "Bangalore, IN"
   github           : "saujasv"
   links:
-    - label: "saujas1999[AT]gmail[DOT]com"
+    - label: "svadugur [A] andrew [D] cmu [D] edu"
       icon: "fas fa-fw fa-envelope-square"
       url: ""
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/saujasv"
-    - label: "Google Scholar"
+    - label: "  Google Scholar"
       icon: "ai ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=U2MUXuMAAAAJ&hl=en"
-    - label: "Semantic Scholar"
+    - label: "  Semantic Scholar"
       icon: "ai ai-semantic-scholar-square"
       url: "https://www.semanticscholar.org/author/Saujas-Vaduguru/2111868853"
 

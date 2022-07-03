@@ -1,0 +1,44 @@
+# This file contains all publications displayed on https://chandar-lab.github.io/publications/
+# The links and preprint fields are optional.
+# No preprint field, means that the paper is published.
+# Publications will be sorted by the date field.
+# For conference publications, make the day the date of conference.
+
+# Thanks to Andreas Madsen for helping me set this up!
+
+- title: 'Efficient Pragmatic Program Synthesis with Informative Specifications'
+  authors:
+      - Saujas Vaduguru
+      - Kevin Ellis
+      - Yewen Pu
+  venue: 'Workshop on Meaning in Context: Pragmatic Communication in Humans and Machines<br>35th Conference on Neural Information Processing Systems (NeurIPS)'
+  date: 2021-12-13
+  paper_link: https://arxiv.org/abs/2204.02495
+  links:
+    talk: https://slideslive.com/38970772/efficient-pragmatic-program-synthesis-with-informative-specifications
+    code: https://github.com/saujasv/program_synthesis_pragmatics
+  type: preprint
+
+- title: 'Stress Rules from Surface Forms'
+  authors:
+      - Saujas Vaduguru
+      - Partho Sarthi
+      - Dipti Misra Sharma
+      - Monojit Choudhury
+  paper_link:
+  venue: International Conference on Natural Language Processing (ICON)
+  date: 2021-12-16
+  type: paper
+
+- title: 'Sample-efficient Linguistic Generalizations through Program Synthesis: Experiments with Phonology Problems'
+  authors:
+      - Saujas Vaduguru
+      - Aalok Sathe
+      - Monojit Choudhury
+      - Dipti Misra Sharma
+  venue: Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology <br> The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP)
+  paper_link: https://aclanthology.org/2021.sigmorphon-1.7/
+  links:
+    dataset: https://github.com/saujasv/phonological-generalizations
+  date: 2021-08-05
+  type: paper

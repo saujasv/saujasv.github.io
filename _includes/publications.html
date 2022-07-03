@@ -1,0 +1,20 @@
+{% assign publications = include.publications | sort: 'date' | reverse %}
+{% if publications.size > 0 %}
+{% assign year_lastpaper = nil %}
+<!-- <ol reversed start="{{ forloop.rindex }}"> -->
+{% for paper in publications %}
+<!-- <li> -->
+{% include paper.html
+    numbering=include.numbering
+    index=forloop.rindex
+    title=paper.title
+    authors=paper.authors
+    venue=paper.venue
+    date=paper.date
+    paper_link=paper.paper_link
+    links=paper.links
+%}
+<!-- </li> -->
+{% endfor %}
+<!-- </ol> -->
+{% endif %}
