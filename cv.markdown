@@ -12,7 +12,7 @@ permalink: /cv/
 
 <h2>Education</h2>
 <div class="cvitem">
-<strong>Ph.D. in Language and Information Technologies</strong>, Starting 2022<br>
+<strong>Ph.D. in Language and Information Technologies</strong>, 2022–present<br>
 <em>Language Technologies Institute, School of Computer Science, Carnegie Mellon University</em>
 </div>
 
