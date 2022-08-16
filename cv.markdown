@@ -27,7 +27,7 @@ permalink: /cv/
 <div class="cvitem">
 <strong>Research Assistant</strong>, Language Technologies Research Center, <em>IIIT, Hyderabad</em>, 2019–2022<br>
     <ul>
-    <li>Developed program synthesis methods to learn rules for phonological stress placement from a small number of examples</li>
+    <li>Developed program synthesis methods to infer phonological rules from a small number of examples</li>
     <li>Designed various domain-specific languages to compare impact of specifying linguistic knowledge explicitly</li>
     <li style="list-style-type:none"><span class="small-caps">Skills:</span> C#, Python, Microsoft <span class="small-caps">prose</span> SDK</li>
     </ul>
