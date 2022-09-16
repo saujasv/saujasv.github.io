@@ -14,6 +14,7 @@ permalink: /cv/
 <div class="cvitem">
 <strong>Ph.D. in Language and Information Technologies</strong>, 2022–present<br>
 <em>Language Technologies Institute, School of Computer Science, Carnegie Mellon University</em>
+<br><span class="small-caps">Advisor:</span> Daniel Fried<br>
 </div>
 
 <div class="cvitem">
@@ -79,6 +80,6 @@ Honourable Mention, International Linguistics Olympiad, 2015
     <ul>
     <li>Co-chair of Problem Committee and Jury, and member of the Organizing Committee for the Indian national Linguistics Olympiad program from 2018–2021 </li>
     <li>Team leader and coach for Indian team at the International Linguistics Olympiad in 2018, 2019, and 2021</li>
-    <li>Lecturer at Joint Asian-Pacific Linguistics Training, 2021</li>
+    <li>Lecturer at Joint Asian-Pacific Linguistics Training, 2021–22</li>
 </ul>
 </div>
