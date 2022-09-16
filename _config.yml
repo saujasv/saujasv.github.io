@@ -34,8 +34,8 @@ plugins:
 author:
   name             : "Saujas Vaduguru"
   avatar           : "/assets/images/profilepicture.jpg"
-  bio              : "Incoming PhD student at CMU LTI"
-  location         : "Bangalore, IN"
+  bio              : "PhD student at CMU LTI"
+  location         : "Pittsburgh, PA, USA"
   github           : "saujasv"
   links:
     - label: "svadugur [A] cs [D] cmu [D] edu"
