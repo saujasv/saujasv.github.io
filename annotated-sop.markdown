@@ -4,7 +4,7 @@ title: An Annotated Statement of Purpose
 permalink: /annotated-sop
 ---
 
-I've recently found myself giving a lot of similar advice to PhD applications regarding the statement of purpose. While doing this, I often found myself wanting to provide examples of how something could be done, rather than simply describing what I think would be nice to have. So, I decided to annotate my own statement of purpose with some more information of why I decided to write it this way.
+I've recently found myself giving a lot of similar advice to PhD applicants regarding the statement of purpose. While doing this, I often found myself wanting to provide examples of how something could be done, rather than simply describing what I think would be nice to have. So, I decided to annotate my own statement of purpose with some more information of why I decided to write it this way.
 
 Based on advice I received from my mentors, the qualities I wanted to highlight in my SOP are:
 
