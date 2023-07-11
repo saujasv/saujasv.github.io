@@ -27,21 +27,21 @@ permalink: /cv/
 <h2>Former Positions</h2>
 <div class="cvitem">
 <strong>Research Assistant</strong>, Language Technologies Research Center, <em>IIIT, Hyderabad</em>, 2019–2022<br>
-    <ul>
+    <!-- <ul>
     <li>Developed program synthesis methods to infer phonological rules from a small number of examples</li>
     <li>Designed various domain-specific languages to compare impact of specifying linguistic knowledge explicitly</li>
     <li style="list-style-type:none"><span class="small-caps">Skills:</span> C#, Python, Microsoft <span class="small-caps">prose</span> SDK</li>
-    </ul>
+    </ul> -->
 </div>
 
 <div class="cvitem">
 <strong>Research Intern</strong>, Chandar Research Lab, <span class="small-caps"><em>Mila</em></span>, May–Aug 2021<br>
     <span class="small-caps">Advisors:</span> Sarath Chandar, Prasanna Parthasarathi<br>
-    <ul>
+    <!-- <ul>
     <li>Explored slot-incremental continual learning set-ups in dialogue state tracking (DST)</li>
     <li>Finetuned Transformer-based models for DST using various continual learning algorithms</li>
     <li style="list-style-type:none"><span class="small-caps">Skills:</span> Python, PyTorch, HuggingFace Transformers</li>
-    </ul>
+    </ul> -->
 </div>
 
 <h2>Publications</h2>
