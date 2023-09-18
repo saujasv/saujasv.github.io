@@ -25,7 +25,7 @@
       - Partho Sarthi
       - Dipti Misra Sharma
       - Monojit Choudhury
-  paper_link:
+  paper_link: https://aclanthology.org/2021.icon-main.76/
   venue: International Conference on Natural Language Processing (ICON)
   date: 2021-12-16
   type: paper
@@ -66,4 +66,17 @@
   paper_link: 
   links:
   date: 2023-07-14
+  type: paper
+
+- title: 'Amortizing Pragmatic Program Synthesis with Rankings'
+  authors:
+    - Yewen Pu
+    - Saujas Vaduguru
+    - Priyan Vaithilingam
+    - Elena Glassman
+    - Daniel Fried
+  venue: arXiv preprint
+  paper_link: https://arxiv.org/abs/2309.03225
+  links:
+  date: 2023-09-01
   type: paper

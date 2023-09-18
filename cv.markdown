@@ -56,12 +56,13 @@ Honourable Mention, International Linguistics Olympiad, 2015
 
 <h2>Academic Service</h2>
 <div class="cvitem">
-<span class="small-caps">Reviewer: </span>ICON 2021, NILLI@EMNLP 2021
+<span class="small-caps">Reviewer: </span>ICON 2021, NILLI@EMNLP 2021, ACL 2023, EMNLP 2023, BlackboxNLP@EMNLP 2023
 </div>
 
 <h2>Teaching</h2>
 <div class="cvitem">
-<strong>Teaching Assistant</strong>, Computational Linguistics I, <em>IIIT Hyderabad</em>, Spring 2020
+<strong>Teaching Assistant</strong>, Advanced Natural Language Processing, <em>Carnegie Mellon University</em>, Fall 2023
+<strong>Teaching Assistant</strong>, Computational Linguistics I, <em>IIIT, Hyderabad</em>, Spring 2020
 </div>
 
 <h2>Outreach</h2>
