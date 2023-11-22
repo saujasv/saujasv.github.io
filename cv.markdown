@@ -62,7 +62,15 @@ Honourable Mention, International Linguistics Olympiad, 2015
 <h2>Teaching</h2>
 <div class="cvitem">
 <strong>Teaching Assistant</strong>, Advanced Natural Language Processing, <em>Carnegie Mellon University</em>, Fall 2023
+</div>
+
+<div class="cvitem">
 <strong>Teaching Assistant</strong>, Computational Linguistics I, <em>IIIT, Hyderabad</em>, Spring 2020
+</div>
+
+<h2>Invited Talks</h2>
+<div class="cvitem">
+Program synthesis from informative examples, <em>CMU Software Research Seminar</em>, Fall 2023
 </div>
 
 <h2>Outreach</h2>
