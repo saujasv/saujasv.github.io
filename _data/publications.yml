@@ -17,7 +17,7 @@
   links:
     talk: https://slideslive.com/38970772/efficient-pragmatic-program-synthesis-with-informative-specifications
     code: https://github.com/saujasv/program_synthesis_pragmatics
-  type: preprint
+  type: arXiv preprint
 
 - title: 'Stress Rules from Surface Forms'
   authors:
@@ -62,7 +62,7 @@
     - Sanket Vaibhav Mehta
     - Yonatan Bisk
     - Emma Strubell
-  venue: Workshop on High-dimensional Learning Dynamics <br> 40th International Conference on Machine Learning
+  venue: Workshop on High-dimensional Learning Dynamics <br> 40th International Conference on Machine Learning (ICML)
   paper_link: 
   links:
   date: 2023-07-14
@@ -79,4 +79,29 @@
   paper_link: https://arxiv.org/abs/2309.03225
   links:
   date: 2023-09-01
+  type: paper
+
+- title: 'Symbolic Planning and Code Generation for Grounded Dialogue'
+  authors:
+    - Justin T. Chiu
+    - Wenting Zhao
+    - Derek Chen
+    - Saujas Vaduguru
+    - Alexander M. Rush
+    - Daniel Fried
+  venue: Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  paper_link: https://arxiv.org/abs/2310.17140
+  links:
+  date: 2023-10-26
+  type: paper
+
+- title: 'Generating Pragmatic Examples to Train Neural Program Synthesizers'
+  authors:
+    - Saujas Vaduguru
+    - Daniel Fried
+    - Yewen Pu
+  venue: arXiv preprint
+  paper_link: https://arxiv.org/abs/2311.05740
+  links:
+  date: 2023-11-09
   type: paper
