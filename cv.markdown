@@ -24,7 +24,12 @@ permalink: /cv/
 <span class="small-caps">Thesis:</span> Program Synthesis for Linguistic Rules
 </div>
 
-<h2>Former Positions</h2>
+<h2>Experience</h2>
+<div class="cvitem">
+<strong>AI Research Scientist Intern</strong>, Autodesk, May–Aug 2024<br>
+    <span class="small-caps">Manager:</span> Yewen Pu<br>
+</div>
+
 <div class="cvitem">
 <strong>Research Assistant</strong>, Language Technologies Research Center, <em>IIIT, Hyderabad</em>, 2019–2022<br>
 </div>

@@ -75,10 +75,10 @@
     - Priyan Vaithilingam
     - Elena Glassman
     - Daniel Fried
-  venue: arXiv preprint
+  venue: 41st International Conference on Machine Learning (ICML)
   paper_link: https://arxiv.org/abs/2309.03225
   links:
-  date: 2023-09-01
+  date: 2024-07-21
   type: paper
 
 - title: 'Symbolic Planning and Code Generation for Grounded Dialogue'
@@ -100,8 +100,20 @@
     - Saujas Vaduguru
     - Daniel Fried
     - Yewen Pu
-  venue: Twelfth International Conference on Learning Representations (ICLR)
+  venue: 12th International Conference on Learning Representations (ICLR)
   paper_link: https://arxiv.org/abs/2311.05740
+  links:
+  date: 2024-05-07
+  type: paper
+
+- title: 'Is the Pope Catholic? Yes, the Pope is Catholic. Generative Evaluation of Intent Resolution in LLMs'
+  authors:
+    - Akhila Yerukola
+    - Saujas Vaduguru
+    - Daniel Fried
+    - Maarten Sap
+  venue: 62nd Annual Meeting of the Association for Computational Linguistics (ACL)
+  paper_link: https://arxiv.org/abs/2405.08760
   links:
   date: 2024-05-07
   type: paper
