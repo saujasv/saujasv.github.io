@@ -117,3 +117,19 @@
   links:
   date: 2024-05-07
   type: paper
+
+- title: 'mrCAD: Multimodal Refinement of Computer-aided Designs'
+  authors:
+    - William P. McCarthy*
+    - Saujas Vaduguru*
+    - Karl D. D. Willis
+    - Justin Matejka
+    - Judith E. Fan
+    - Daniel Fried
+    - Yewen Pu
+  venue: preprint
+  paper_link: https://arxiv.org/abs/2504.20294
+  links:
+    code: https://github.com/AutodeskAILab/mrCAD/
+  date: 2025-04-30
+  type: paper

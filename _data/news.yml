@@ -30,3 +30,6 @@
 
 - item: Starting an internship at Autodesk working with <a href="https://evanthebouncy.github.io/">Evan Pu</a> for the summer!
   date: 2024-05-20
+
+- item: Very excited to share our work on <a href="https://arxiv.org/abs/2504.20294">mrCAD</a> on multimodal communication! This large-scale dataset is rich with interesting communicative phenomena in instruction generation and following, and is accompanied by a gym-like environment to make benchmarking (and more!) easy.
+  date: 2025-04-30
