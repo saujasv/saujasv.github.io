@@ -118,6 +118,16 @@
   date: 2024-05-07
   type: paper
 
+- title: 'Analyzing Information Sharing and Coordination in Multi-Agent Planning'
+  authors:
+    - Tianyue Ou
+    - Saujas Vaduguru
+    - Daniel Fried
+  paper_link: https://arxiv.org/abs/2508.12981
+  venue: preprint
+  date: 2025-08-19
+  type: paper
+
 - title: 'mrCAD: Multimodal Refinement of Computer-aided Designs'
   authors:
     - William P. McCarthy*
@@ -127,9 +137,21 @@
     - Judith E. Fan
     - Daniel Fried
     - Yewen Pu
-  venue: preprint
+  venue: "Findings of the Association for Computational Linguistics: EMNLP"
   paper_link: https://arxiv.org/abs/2504.20294
   links:
     code: https://github.com/AutodeskAILab/mrCAD/
-  date: 2025-04-30
+  date: 2025-08-20
+  type: paper
+
+- title: 'Identifying & Interactively Refining Ambiguous User Goals for Data Visualization Code Generation'
+  authors:
+    - Mert Inan
+    - Anthony Sicilia
+    - Alex Xie
+    - Saujas Vaduguru
+    - Daniel Fried
+    - Malihe Alikhani
+  venue: Conference on Empirical Methods in Natural Language Processing (EMNLP)
+  date: 2025-08-20
   type: paper

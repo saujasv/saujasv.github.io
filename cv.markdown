@@ -61,7 +61,8 @@ Honourable Mention, International Linguistics Olympiad, 2015
 
 <h2>Academic Service</h2>
 <div class="cvitem">
-<span class="small-caps">Reviewer: </span>ICON 2021, NILLI@EMNLP 2021, ACL 2023, EMNLP 2023, BlackboxNLP@EMNLP 2023
+<span class="small-caps">Reviewer: </span>NeurIPS 2025, ICLR 2025, ACL Rolling Review (May 2025, February 2025,
+June 2024, August 2024), EMNLP 2023, ACL 2023, BlackboxNLP@EMNLP 2023, ICON 2021, NILLI@EMNLP 2021
 </div>
 
 <h2>Teaching</h2>
@@ -74,6 +75,9 @@ Honourable Mention, International Linguistics Olympiad, 2015
 </div>
 
 <h2>Invited Talks</h2>
+<div class="cvitem">
+Learning to synthesize programs from informative examples, <em>MPI Tübingen</em>, Fall 2024
+</div>
 <div class="cvitem">
 Program synthesis from informative examples, <em>CMU Software Research Seminar</em>, Fall 2023
 </div>
