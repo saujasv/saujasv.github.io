@@ -38,7 +38,7 @@ author:
   location         : "Pittsburgh, PA, USA"
   github           : "saujasv"
   links:
-    - label: "svadugur [A] cs [D] cmu [D] edu"
+    - label: "<span style='font-family: Inconsolata, Monaco, Consolas, \"Lucida Console\", monospace;'>svadugur [A] cs [D] cmu [D] edu</span>"
       icon: "fas fa-fw fa-envelope-square"
       url: ""
     - label: "Twitter"
