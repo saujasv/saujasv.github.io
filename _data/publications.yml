@@ -11,7 +11,7 @@
       - Saujas Vaduguru
       - Kevin Ellis
       - Yewen Pu
-  venue: 'Workshop on Meaning in Context: Pragmatic Communication in Humans and Machines<br>35th Conference on Neural Information Processing Systems (NeurIPS)'
+  venue: 'Workshop on Meaning in Context: Pragmatic Communication in Humans and Machines'
   date: 2021-12-13
   paper_link: https://arxiv.org/abs/2204.02495
   links:
@@ -36,7 +36,7 @@
       - Aalok Sathe
       - Monojit Choudhury
       - Dipti Misra Sharma
-  venue: Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology <br> The Joint Conference of the 59th Annual Meeting of the Association for Computational Linguistics and the 11th International Joint Conference on Natural Language Processing (ACL-IJCNLP)
+  venue: Proceedings of the 18th SIGMORPHON Workshop on Computational Research in Phonetics, Phonology, and Morphology
   paper_link: https://aclanthology.org/2021.sigmorphon-1.7/
   links:
     dataset: https://github.com/saujasv/phonological-generalizations
@@ -49,7 +49,7 @@
     - Shashwat Goel
     - Saujas Vaduguru
     - Ponnurangam Kumaraguru
-  venue: 8th Workshop on Representation Learning for NLP (RepL4NLP) <br> 61st Annual Meeting of the Association for Computational Linguistics (ACL)
+  venue: 8th Workshop on Representation Learning for NLP (RepL4NLP)
   paper_link: './assets/negation.pdf'
   links:
   date: 2023-07-13
@@ -62,7 +62,7 @@
     - Sanket Vaibhav Mehta
     - Yonatan Bisk
     - Emma Strubell
-  venue: Workshop on High-dimensional Learning Dynamics <br> 40th International Conference on Machine Learning (ICML)
+  venue: Workshop on High-dimensional Learning Dynamics
   paper_link: 
   links:
   date: 2023-07-14
