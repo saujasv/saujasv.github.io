@@ -155,3 +155,14 @@
   venue: Conference on Empirical Methods in Natural Language Processing (EMNLP)
   date: 2025-08-20
   type: paper
+
+- title: 'Success and Cost Elicit Convention Formation for Efficient Communication'
+  authors:
+    - Saujas Vaduguru
+    - Yilun Hua
+    - Yoav Artzi
+    - Daniel Fried
+  paper_link: https://arxiv.org/abs/2510.24023
+  venue: preprint
+  date: 2025-10-28
+  type: paper
