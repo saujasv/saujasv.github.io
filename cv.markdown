@@ -26,8 +26,13 @@ permalink: /cv/
 
 <h2>Experience</h2>
 <div class="cvitem">
+<strong>Research Intern</strong>, Microsoft Research, May–Aug 2026<br>
+    <span class="small-caps">Hosts:</span> Chan Young Park, Jennifer Neville, Siddarth Suri<br>
+</div>
+
+<div class="cvitem">
 <strong>AI Research Scientist Intern</strong>, Autodesk, May–Aug 2024<br>
-    <span class="small-caps">Manager:</span> Yewen Pu<br>
+    <span class="small-caps">Host:</span> Yewen Pu<br>
 </div>
 
 <div class="cvitem">
@@ -46,6 +51,10 @@ permalink: /cv/
 %}
 
 <h2>Honors and Awards</h2>
+<div class="cvitem">
+Microsoft Research Fellowship, 2026
+</div>
+
 <div class="cvitem">
 <span class="small-caps">Mitacs</span> Globalink Research Internship, 2021
 </div>
@@ -75,6 +84,9 @@ June 2024, August 2024), EMNLP 2023, ACL 2023, BlackboxNLP@EMNLP 2023, ICON 2021
 </div>
 
 <h2>Invited Talks</h2>
+<div class="cvitem">
+Learning Efficient Communication in Multi-agent Interactions, <em>LeMNLab, UC San Diego</em>, Spring 2026
+</div>
 <div class="cvitem">
 Learning to synthesize programs from informative examples, <em>MPI Tübingen</em>, Fall 2024
 </div>
