@@ -44,12 +44,6 @@ permalink: /cv/
     <span class="small-caps">Advisors:</span> Sarath Chandar, Prasanna Parthasarathi<br>
 </div>
 
-<h2>Publications</h2>
-{% include publications.html
-    publications=site.data.publications
-    numbering=true
-%}
-
 <h2>Honors and Awards</h2>
 <div class="cvitem">
 Microsoft Research Fellowship, 2026
@@ -67,6 +61,12 @@ Dean's List Award for Academic Performance, IIIT Hyderabad, 2017–21
 Honourable Mention, International Linguistics Olympiad, 2015
 </div>
 
+
+<h2>Publications</h2>
+{% include publications.html
+    publications=site.data.publications
+    numbering=true
+%}
 
 <h2>Academic Service</h2>
 <div class="cvitem">
