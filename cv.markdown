@@ -27,7 +27,7 @@ permalink: /cv/
 <h2>Experience</h2>
 <div class="cvitem">
 <strong>Research Intern</strong>, Microsoft Research, May–Aug 2026<br>
-    <span class="small-caps">Hosts:</span> Chan Young Park, Jennifer Neville, Siddharth Suri<br>
+    <span class="small-caps">Hosts:</span> Chan Young Park, Jennifer Neville<br>
 </div>
 
 <div class="cvitem">
